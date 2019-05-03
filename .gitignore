@@ -1,0 +1,12 @@
+HELP.md
+target/
+*.log
+tmp
+
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr

@@ -4,4 +4,4 @@ services:
   - docker
 
 before_install:
-  - "sudo docker pull ansible/ansible"
+  - "sudo docker pull ansible"
